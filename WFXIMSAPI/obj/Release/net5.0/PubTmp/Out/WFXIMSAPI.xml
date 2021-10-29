@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WFXIMSAPI</name>
+    </assembly>
+    <members>
+        <member name="M:WFXIMSAPI.WFXCommonFunctions.WFXImageOptimization.ProcessImage(System.Drawing.Bitmap,System.Int32,System.Int32,System.Int32,System.String)">
+            <summary>
+            Method to resize, convert and save the image.
+            </summary>
+            <param name="image">Bitmap image.</param>
+            <param name="canvasWidth">resize width.</param>
+            <param name="canvasHeight">resize height.</param>
+            <param name="quality">quality setting value.</param>
+            <param name="filePath">file path.</param>      
+        </member>
+    </members>
+</doc>

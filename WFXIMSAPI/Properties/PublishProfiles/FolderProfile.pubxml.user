@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\HostedApps\WFXIMSAPI</_PublishTargetUrl>
+    <History>True|2021-10-22T16:56:04.9930470Z;True|2021-09-15T16:17:29.2374233+05:30;True|2021-09-15T16:10:51.3579630+05:30;True|2021-09-15T15:46:15.7927678+05:30;</History>
+  </PropertyGroup>
+</Project>
